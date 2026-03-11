@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Valentin, a student at Technical University of Cluj-Napoca, studying **Robotics**.
+
+I'm intrigued by Machine Learning, especially Reinforcement Learning and I try to combine my knowledge in robotics with the RL topic.
+
+At the moment I'm still a begginer when talking about programming so, if you have any advice for me, it would be much apreciated.
+
+My main tech stack:
+- Python
