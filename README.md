@@ -22,3 +22,7 @@ At the moment I'm still a begginer when talking about programming so, if you hav
 
 My main tech stack:
 - Python
+- C++ (still learning)
+- SolidWorks
+- Catia V5
+- ROS2
